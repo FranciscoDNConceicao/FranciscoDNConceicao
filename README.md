@@ -1,7 +1,7 @@
-<h1>Hello I'm Francisco and this is my Github Page!! </h1>
+<h1>Hello I'm Francisco</h1>
 
 <div style="">
-  <p>I am a software developer student with experience in a variety of programming languages and technologies. I have a passion for automating tedious tasks and finding new ways to solve problems. I am always open to collaboration and new opportunities, so feel free to reach out to me on GitHub or in other socials.</p>
+  <p>I am a software engineering student with experience in a variety of programming languages and technologies. I have a passion for automating tedious tasks and finding new ways to solve problems. I am always open to collaboration and new opportunities, so feel free to reach out to me on GitHub or in other socials.</p>
 </div>
 
 <h2> Most Used Technologies </h2>
