@@ -3,7 +3,7 @@
 <div style="">
   <p>I am a developer with a bachelor on Computing Engineering with experience in a variety of programming languages and technologies. I have a passion for automating tedious tasks and finding new ways to solve problems. I am always open to collaboration and new opportunities, so feel free to reach out to me on GitHub or in other socials.</p>
 </div>
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=FranciscoDNConceicao)
 <h2> Most Used Technologies </h2>
 <div style="display: inline_block"> 
   <img align="center" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
