@@ -7,7 +7,7 @@ Software Engineer at ANO Software
 *   🌍  I'm based in Porto
 *   🖥️  See my portfolio at [https://franciscodnconceicao.github.io/](http://franciscodnconceicao.github.io/)
 *   ✉️  You can contact me at [franciscodnconceicao@gmail.com](mailto:franciscodnconceicao@gmail.com)
-*   🧠  I'm learning Go and HTMX framework### Skills 
+*   🧠  I'm learning Go and HTMX framework
 <p align="left">
 
 ### Technologies
